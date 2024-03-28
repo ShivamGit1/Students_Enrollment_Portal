@@ -3,7 +3,7 @@
 
 ### PPTs
 Here are the images from the PowerPoint presentations:
-<img src="PPT_Students_Registration_Portal/User_Pictures/1.png" width="300"> <img src="PPT_Students_Registration_Portal/User_Pictures/2.png" width="300">
+<img src="PPT_Students_Registration_Portal/1.png" width="300"> <img src="PPT_Students_Registration_Portal/User_Pictures/2.png" width="300">
 <img src="PPT_Students_Registration_Portal/User_Pictures/3.png" width="300"> <img src="PPT_Students_Registration_Portal/User_Pictures/4.png" width="300">
 ![Image](PPT_Students_Registration_Portal/1.png)
 ![Image](PPT_Students_Registration_Portal/2.png)
