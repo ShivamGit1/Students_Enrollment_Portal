@@ -4,7 +4,7 @@
 ### PPTs
 Here are the images from the PowerPoint presentations:
 
-!PPT_Students_Registration_Portal 1
+![Image](PPT_Students_Registration_Portal/1.png)
 !PPT_Students_Registration_Portal 2
 !PPT_Students_Registration_Portal 18
 
