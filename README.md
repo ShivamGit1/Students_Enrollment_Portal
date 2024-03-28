@@ -5,22 +5,22 @@
 Here are the images from the PowerPoint presentations: </br>
 <img src="PPT_Students_Registration_Portal/1.png" width="500">
 <img src="PPT_Students_Registration_Portal/2.png" width="500">
-<img src="PPT_Students_Registration_Portal/3.png" width="300">
-<img src="PPT_Students_Registration_Portal/4.png" width="300">
-<img src="PPT_Students_Registration_Portal/5.png" width="300">
-<img src="PPT_Students_Registration_Portal/6.png" width="300">
-<img src="PPT_Students_Registration_Portal/7.png" width="300">
-<img src="PPT_Students_Registration_Portal/8.png" width="300">
-<img src="PPT_Students_Registration_Portal/9.png" width="300">
-<img src="PPT_Students_Registration_Portal/10.png" width="300">
-<img src="PPT_Students_Registration_Portal/11.png" width="300">
-<img src="PPT_Students_Registration_Portal/12.png" width="300">
-<img src="PPT_Students_Registration_Portal/13.png" width="300">
-<img src="PPT_Students_Registration_Portal/14.png" width="300">
-<img src="PPT_Students_Registration_Portal/15.png" width="300">
-<img src="PPT_Students_Registration_Portal/16.png" width="300">
-<img src="PPT_Students_Registration_Portal/17.png" width="300">
-<img src="PPT_Students_Registration_Portal/18.png" width="300">
+<img src="PPT_Students_Registration_Portal/3.png" width="500">
+<img src="PPT_Students_Registration_Portal/4.png" width="500">
+<img src="PPT_Students_Registration_Portal/5.png" width="500">
+<img src="PPT_Students_Registration_Portal/6.png" width="500">
+<img src="PPT_Students_Registration_Portal/7.png" width="500">
+<img src="PPT_Students_Registration_Portal/8.png" width="500">
+<img src="PPT_Students_Registration_Portal/9.png" width="500">
+<img src="PPT_Students_Registration_Portal/10.png" width="500">
+<img src="PPT_Students_Registration_Portal/11.png" width="500">
+<img src="PPT_Students_Registration_Portal/12.png" width="500">
+<img src="PPT_Students_Registration_Portal/13.png" width="500">
+<img src="PPT_Students_Registration_Portal/14.png" width="500">
+<img src="PPT_Students_Registration_Portal/15.png" width="500">
+<img src="PPT_Students_Registration_Portal/16.png" width="500">
+<img src="PPT_Students_Registration_Portal/17.png" width="500">
+<img src="PPT_Students_Registration_Portal/18.png" width="500">
 
 
 ![Image](PPT_Students_Registration_Portal/1.png)
