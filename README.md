@@ -1,8 +1,15 @@
 # README
 ## Students Enrollment Portal
-### Get Started
 
-<h1>hello shivam</h1>
+### PPTs
+Here are the images from the PowerPoint presentations:
+
+!Image 1
+!Image 2
+...
+!Image 18
+
+### Get Started
 
 Use the following steps to get the application running:
 
