@@ -22,7 +22,7 @@
 <img src="PPT_Students_Registration_Portal/17.png" width="500">
 <img src="PPT_Students_Registration_Portal/18.png" width="500">
 
-
+<!--
 ![Image](PPT_Students_Registration_Portal/1.png)
 ![Image](PPT_Students_Registration_Portal/2.png)
 ![Image](PPT_Students_Registration_Portal/3.png)
@@ -40,7 +40,8 @@
 ![Image](PPT_Students_Registration_Portal/15.png)
 ![Image](PPT_Students_Registration_Portal/16.png)
 ![Image](PPT_Students_Registration_Portal/17.png)
-![Image](PPT_Students_Registration_Portal/18.png)
+![Image](PPT_Students_Registration_Portal/18.png) 
+-->
 
 ### Get Started
 
