@@ -4,9 +4,9 @@
 ### PPTs
 Here are the images from the PowerPoint presentations:
 
-!Image 1
-!Image 2
-!Image 18
+!PPT_Students_Registration_Portal 1
+!PPT_Students_Registration_Portal 2
+!PPT_Students_Registration_Portal 18
 
 ### Get Started
 
