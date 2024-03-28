@@ -6,7 +6,6 @@ Here are the images from the PowerPoint presentations:
 
 !Image 1
 !Image 2
-...
 !Image 18
 
 ### Get Started
