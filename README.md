@@ -2,7 +2,6 @@
 ## Students Enrollment Portal
 
 ### PPTs
-<!-- Here are the images from the PowerPoint presentations: --></br>
 <img src="PPT_Students_Registration_Portal/1.png" width="500">
 <img src="PPT_Students_Registration_Portal/2.png" width="500">
 <img src="PPT_Students_Registration_Portal/3.png" width="500">
